@@ -1,4 +1,3 @@
-#Tmux-config
+#Shell-Configuration
 
-Easy remote access to tmux configuration file.
-Remember to save config file as **~/.tmux.conf**
+Remember to save tmux config file as **~/.tmux.conf**
