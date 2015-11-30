@@ -2,5 +2,5 @@
 
 curl -L "https://github.com/msarfati/shell-configuration/raw/master/vimrc" -o ~/.vimrc
 curl -L "https://github.com/msarfati/shell-configuration/raw/master/tmux.conf" -o ~/.tmux.conf
-curl -L "https://github.com/msarfati/shell-configuration/raw/master/vimrc" -o ~/.zshrc
+curl -L "https://github.com/msarfati/shell-configuration/raw/master/zshrc" -o ~/.zshrc
 
